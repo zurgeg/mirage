@@ -1,4 +1,4 @@
-# Mirage (Formerly WiiLink24 Bot)
+# Mirage (Legacy WiiLink24 Bot)
 A discord bot with a strong focus on self-hosting.
 
 ## Running
